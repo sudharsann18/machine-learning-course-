@@ -39,8 +39,8 @@ Each notebook demonstrates a different ML concept, covering the full pipeline fr
 
 ## 📬 Connect with Me  
 - [GitHub Profile](https://github.com/sudharsann18)  
-- [LinkedIn](YOUR-LINKEDIN)  
-- [Email](mailto:YOUR-EMAIL@gmail.com)  
+- [LinkedIn](www.linkedin.com/in/sudharsann-cs-7942422a2)  
+- [Email](mailto:sudharsannnani@gmail.com)  
 
 ---
 ⭐️ Don’t forget to star this repo if you find it useful!
