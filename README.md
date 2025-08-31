@@ -29,19 +29,23 @@ Each notebook demonstrates a different ML concept, covering the full pipeline fr
 ---
 
 ## 🚀 Tech Stack  
-- Python  
-- Numpy, Pandas  
-- Scikit-learn  
-- TensorFlow / Keras  
-- Matplotlib, Seaborn  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+</p>
 
 ---
 
 ## 📬 Connect with Me  
 - [GitHub Profile](https://github.com/sudharsann18)  
-- [LinkedIn](www.linkedin.com/in/sudharsann-cs-7942422a2)  
+- [LinkedIn](https://www.linkedin.com/in/sudharsann-cs-7942422a2)  
 - [Email](mailto:sudharsannnani@gmail.com)  
 
 ---
-⭐️ Don’t forget to star this repo if you find it useful!
+
+⭐️ If you found these projects interesting, don’t forget to **star** this repo!
 
